@@ -12,3 +12,8 @@ Algoritmo genético desenvolvido por alunos da ILUM-Escola de Ciências, como co
 * Selecionar os indivíduos que menos repetem números nas colunas, linhas e matrizes
 * Geração após geração, menos repetições.
 
+Cruzamento -> Crossover single-point
+dois cromossomos geram dois cromossomos
+caso haja crossover, filhos substituem os pais, caso contrário, os pais passam para a geração seguinte
+
+Troca hill climbbing será realizada em um local onde melhorará o fitness do indivíduo, 2 bits serão trocados de lugar.
