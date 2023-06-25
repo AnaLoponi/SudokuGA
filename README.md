@@ -16,4 +16,25 @@ Cruzamento -> Crossover single-point
 dois cromossomos geram dois cromossomos
 caso haja crossover, filhos substituem os pais, caso contrário, os pais passam para a geração seguinte
 
+[
+
+Para resolver o problema de resolução do Sudoku, utilizamos o método dos algorítmos genéticos. 
+
+]
+
 Troca hill climbbing será realizada em um local onde melhorará o fitness do indivíduo, 2 bits serão trocados de lugar.
+
+## Visão geral
+
+Este projeto tem como objetivo resolver o jogo de Sudoku utilizando algoritmos genéticos. O Sudoku é um jogo de quebra-cabeças popular que requer preencher uma grade 9x9 com dígitos de 1 a 9, obedecendo a certas restrições (não repetir um mesmo algarismo em uma coluna, linha ou sub-grade). Problemas como esse, para nós humanos, são relativamente fáceis e lógicos, mas passar essa lógica para um código e executá-lo de forma eficiente na máquina é um desafio extremamente complexo, sendo até mesmo classificado como NP-Completo (isso será discutido mais adiante). Mesmo que o universo de jogos possíveis para o Sudoku seja finito, o número é extremamente grande. De acordo com um trabalho realizado por Felgenhauer e Jarvis em 2006, no Sudoku convencional (9x9), existem cerca de 6,67x10²¹ possibilidades.
+
+## Algoritmos genéticos
+
+Algoritmos genéticos são técnicas de otimização inspiradas no processo de evolução biológica. Eles funcionam criando uma população inicial de soluções candidatas e aplicando seleção, recombinação e mutação para evoluir essa população ao longo de várias gerações. As soluções mais aptas têm maior probabilidade de serem selecionadas para reprodução, permitindo a combinação de suas características promissoras. Com o tempo, esses algoritmos convergem para soluções cada vez melhores, encontrando aproximadamente a melhor solução possível para um determinado problema, assim como os organismos que se adaptam melhor ao ambiente têm mais sucesso no meio natural. Quando se fala em algoritmos genéticos, devemos pensar em otimização
+
+## Aplicando no sudoku
+
+## Problemas NP e NP compostos
+
+
+
