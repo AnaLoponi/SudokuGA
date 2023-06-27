@@ -25,8 +25,13 @@ Este projeto tem como objetivo resolver o jogo de Sudoku utilizando algoritmos g
 
 ## Aplicando no sudoku
 
-Para aplicar os algorítmos genéticos no problema de sudoku, o padrão e a base permanece a mesma: criar os genes/indivíduos/população/geração/fitness/seleção.
-Os notebooks <a href = "https://github.com/AnaLoponi/SudokuGA/blob/main/Sudoku_4.ipynb" > Sudoku_4 </a><br> e <a href = "https://github.com/AnaLoponi/SudokuGA/blob/main/Sudoku_9.ipynb" > Sudoku_9 </a><br> estão bem comentados. Caso queiram entender como a implementação dos AG funciona, acesse-os.
+Para aplicar os algorítmos genéticos no problema de sudoku, não vai haver mudanças na estrutura em si do código (criar os genes;indivíduos;população;geração;fitness;seleção, etc)
+Como os AG podem ser aplicados em vários problemas para otimização, detalhes em operadores como cruzamento são alterados, para se adequar no contexto e problema trabalhado. Em nosso caso aplicado no sudoku, o cruzamento utilizado se chama "Cross Over".
+
+Clique aqui para acessar os códigos para mais detalhes:
+ <a href = "https://github.com/AnaLoponi/SudokuGA/blob/main/Sudoku_4.ipynb" > Sudoku_4 </a><br>
+ <a href = "https://github.com/AnaLoponi/SudokuGA/blob/main/Sudoku_9.ipynb" > Sudoku_9 </a><br>
+ Os códigos estão comentados.
 
 
 ## Problemas NP e NP compostos
