@@ -1,6 +1,6 @@
 
 
-<img align="right" alt="ilum" height="40" width="150" src="https://www.somatematica.com.br/curiosidades/sudoku.gif">
+<img align="right" src="https://github.com/pedrozanineli/pcd.github.io/blob/main/logo1.png">
 
 
 # SudokuGA
