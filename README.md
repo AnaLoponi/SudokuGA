@@ -1,6 +1,6 @@
 
 
-<img align="right" src="https://www.somatematica.com.br/curiosidades/sudoku.gif">
+<img align="center"  src="https://www.somatematica.com.br/curiosidades/sudoku.gif">
 
 
 # SudokuGA
