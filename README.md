@@ -34,11 +34,11 @@ Clique aqui para acessar os códigos para mais detalhes:
  Os códigos estão comentados.
 
 
-## Problemas NP e NP compostos
+## Problemas NP e NP completos
 
-Os problemas de NP e NP-Compostos são distintos dos outros porblemas de programação. Os NP tem elevados custos computacionais e não tem soluções que sejam EFICIENTES para resolve-los. Estes tipos de problema são definidos como não determinísticos polinomiais (a solução candidata pode ser verificada em tempo polinomial)
+Os problemas de NP e NP-completos são distintos dos outros porblemas de programação. Os NP tem elevados custos computacionais e não tem soluções que sejam EFICIENTES para resolve-los. Estes tipos de problema são definidos como não determinísticos polinomiais (a solução candidata pode ser verificada em tempo polinomial)
 
-O sudoku por exemplo, se trata de um problema NP-Composto. Ao resolver um problema NP-Composto de forma eficiente, todos os outros problemas de NP tornam-se possíveis de serem solucionados, pois a base deles a problemática principal, é a mesma. Abrindo espaço assim para um grande salto computacional. Estudar estes temas é importantíssimo para a computação.
+O sudoku por exemplo, se trata de um problema NP-completo. Ao resolver um problema NP-completo de forma eficiente, todos os outros problemas de NP tornam-se possíveis de serem solucionados, pois a base deles a problemática principal, é a mesma. Abrindo espaço assim para um grande salto computacional. Estudar estes temas é importantíssimo para a computação.
 
 
 
