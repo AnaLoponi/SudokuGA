@@ -1,6 +1,8 @@
 # SudokuGA 🔢
 
-<img align="center" src="https://www.somatematica.com.br/curiosidades/sudoku.gif">
+<p align="center">
+  <img src="https://www.somatematica.com.br/curiosidades/sudoku.gif">
+</p>
 
 Algoritmo genético desenvolvido por alunos da ILUM-Escola de Ciências, como conclusão da disciplina de Redes Neurais e Algoritmos Genéticos, sob orientação do [Prof. Daniel Cassar](https://github.com/drcassar). 
 
